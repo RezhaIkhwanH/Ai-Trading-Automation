@@ -1,0 +1,2 @@
+di jalankan nya mengunakan goole collab
+ada kemungkinan perbedaan setingan hyper parameter dan memiliki unsur ramdom
